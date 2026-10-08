@@ -9,9 +9,9 @@ Batangas State University, Alangilan Campus
 | Name | Student Number | Section |
 |---|---|---|
 | Bacay, Jonel Andrey A.| 22-05567 | Mexe- 4103 |
-| Surname, First Name | | |
+| Caballes, Lois Eduard U. | 22-09062 | Mexe- 4103 |
 
-## Notebook links
+## Notebook links-
 
 | Chapter | Member 1 | Member 2 |
 |---|---|---|
