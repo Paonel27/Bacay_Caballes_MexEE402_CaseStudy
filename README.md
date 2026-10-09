@@ -36,14 +36,11 @@ In Chapter 9, we learned that data preprocessing is an important step before per
 
 
 ## Errors we found
-
-List any mistake you found in the original notebooks, and the correct version.
-There are real ones in there. Finding them earns points.
+We found an error in chapter 6 were the code in calculating the outliers is not working properly because the set cutoff in the code is 3 while the maximum z-scores in the data set is 2.615 so we change the threshold value into 2.5
 
 ## Note on AI tools
 
-Say whether you used an AI tool, and what for. This is not a penalty.
-Hiding it is.
+We use AI tools in chapter 6 to fix the code in calculating outliers because the cutoff in the code is set to 3 while the maximum z- score in the dataset is 2.615. Since the 2.615 is less than 3, the code evaluates the condition as false. 
 
 ## References
 
