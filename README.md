@@ -28,7 +28,7 @@ In Chapter 1-3, these lessons taught me that preparing data properly makes machi
 
 In Chapter 4, these lessons showed me that preparing and transforming data is not just about cleaning—it’s about making the data smarter, so the model can understand it better. It taught me that the way we represent information can change how well the model sees patterns and makes predictions
 
-In my point of view, these lessons showed me that scaling is a way to make data fairer and more balanced. It taught me that choosing the right scaling method can help the model focus on what really matters, instead of being misled by the size of the numbers.
+In chapter 5, these lessons showed me that scaling is a way to make data fairer and more balanced. It taught me that choosing the right scaling method can help the model focus on what really matters, instead of being misled by the size of the numbers.
 
 In chapter 6, we thought an outlier was just a mistake to be deleted. But I realized an outlier is simply a data point that lives far away from its peers. Sometimes it’s a sensor glitch or a typo which should be removed or capped but it can be useful sometimes so don't remove it always.
 
