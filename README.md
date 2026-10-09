@@ -25,8 +25,15 @@ Batangas State University, Alangilan Campus
 
 ## What we learned
 
-One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught
-you and what surprised you. Not what the library does, but what you understood.
+
+In chapter 6, we thought an outlier was just a mistake to be deleted. But I realized an outlier is simply a data point that lives far away from its peers. Sometimes it’s a sensor glitch or a typo which should be removed or capped but it can be useful sometimes so don't remove it always.
+
+In chapter 7, our biggest conceptual takeaway is that feature selection isn't just about deleting unnecessary columns; it is about balancing quality, efficiency, and model performance. Having more data columns does not automatically make a machine learning model smarter, because irrelevant or highly redundant features introduce noise, slow down algorithms, and can ultimately degrade accuracy. 
+
+In chapter 8, we learned that the central focus shifts from individual data-cleaning techniques to building a structured software pipeline that automates raw data transformation. Using the notebook's conveyor belt analogy, a data preprocessing pipeline passes raw features through a sequence of automated operations such as handling missing values or adjusting scales so that clean, standardized data exits at the end ready for machine learning models. 
+
+In Chapter 9, we learned that data preprocessing is an important step before performing data analysis or developing a machine learning model. Before studying this chapter, we might have thought that having a dataset was enough to begin analyzing information. However, we realized that the quality of the data affects how accurately we can interpret results and discover meaningful patterns. 
+
 
 ## Errors we found
 
