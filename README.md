@@ -47,6 +47,7 @@ We found an error in chapter 6 were the code in calculating the outliers is not 
 We use AI tools in chapter 6 to fix the code in calculating outliers because the cutoff in the code is set to 3 while the maximum z- score in the dataset is 2.615. Since the 2.615 is less than 3, the code evaluates the condition as false. 
 
 I(Bacay) personally use Gemini to discuss the things that are not clear to me in doing the chapter 6 to 9 specifically in understanding the RFECV and LassoCV.
+
 I(Caballes) personally use Copilot, it helps me to understand, and to construct my answers for the entire chapter 1-5, especially 4 and 5.
 ## References
 
