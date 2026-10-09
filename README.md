@@ -24,7 +24,11 @@ Batangas State University, Alangilan Campus
 | Ch9 | https://colab.research.google.com/drive/1iQmSlDMHwVhFpR4UNTDZkVDEtHgMpf2u?usp=sharing | [link]() |
 
 ## What we learned
+In Chapter 1-3, these lessons taught me that preparing data properly makes machine learning more accurate and reliable. It showed me that even small details, like missing values or unnecessary columns, can affect the results. I now appreciate that preprocessing is not just a step, but a foundation for good analysis.
 
+In Chapter 4, these lessons showed me that preparing and transforming data is not just about cleaning—it’s about making the data smarter, so the model can understand it better. It taught me that the way we represent information can change how well the model sees patterns and makes predictions
+
+In my point of view, these lessons showed me that scaling is a way to make data fairer and more balanced. It taught me that choosing the right scaling method can help the model focus on what really matters, instead of being misled by the size of the numbers.
 
 In chapter 6, we thought an outlier was just a mistake to be deleted. But I realized an outlier is simply a data point that lives far away from its peers. Sometimes it’s a sensor glitch or a typo which should be removed or capped but it can be useful sometimes so don't remove it always.
 
@@ -43,7 +47,7 @@ We found an error in chapter 6 were the code in calculating the outliers is not 
 We use AI tools in chapter 6 to fix the code in calculating outliers because the cutoff in the code is set to 3 while the maximum z- score in the dataset is 2.615. Since the 2.615 is less than 3, the code evaluates the condition as false. 
 
 I(Bacay) personally use Gemini to discuss the things that are not clear to me in doing the chapter 6 to 9 specifically in understanding the RFECV and LassoCV.
-
+I(Caballes) personally use Copilot, it helps me to understand, and to construct my answers for the entire chapter 1-5, especially 4 and 5.
 ## References
 
 McKinney, W. (2021). Python for Data Analysis, 3rd ed. O'Reilly.
