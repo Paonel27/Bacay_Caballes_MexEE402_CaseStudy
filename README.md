@@ -16,11 +16,11 @@ Batangas State University, Alangilan Campus
 | Chapter | Member 1 | Member 2 |
 |---|---|---|
 | Ch1_2_3 | [link]() |https://colab.research.google.com/drive/1byao2_RiVkra4b956uTP09dBOWqkUjOD?usp=sharing |
-| Ch4 | [link]() | [[link]()](https://colab.research.google.com/drive/1ikGCJhAvy4EYVWpNkv1Cv1dpTzLcJcFc?usp=sharing) |
-| Ch5 | [link]() |[ [link]()](https://colab.research.google.com/drive/1WkjPMPjNl8oTorq9Qkq4AA3GK9_sCsBD?usp=sharing) |
-| Ch6 | https://colab.research.google.com/drive/1rYD2e6XiJD0lR01ltOBGQ-4ICTOg_4Qs?usp=sharing | [[link]()](https://colab.research.google.com/drive/1bahHdDkbV5rvAoTJLnsDNucLC3CPWoDe?usp=sharing) |
+| Ch4 | [link]() | (https://colab.research.google.com/drive/1ikGCJhAvy4EYVWpNkv1Cv1dpTzLcJcFc?usp=sharing) |
+| Ch5 | [link]() |[ (https://colab.research.google.com/drive/1WkjPMPjNl8oTorq9Qkq4AA3GK9_sCsBD?usp=sharing) |
+| Ch6 | https://colab.research.google.com/drive/1rYD2e6XiJD0lR01ltOBGQ-4ICTOg_4Qs?usp=sharing | (https://colab.research.google.com/drive/1bahHdDkbV5rvAoTJLnsDNucLC3CPWoDe?usp=sharing) |
 | Ch7 | https://colab.research.google.com/drive/1yI0Yy97TNqhJSK35DYRaRWwGpBo8b_2I?usp=sharing | [link]() |
-| Ch8 | [link]() | [link]() |
+| Ch8 | https://colab.research.google.com/drive/15-30HfX9-oVz89U-S3fXA0gZSumDqW1I?usp=sharing | [link]() |
 | Ch9 | [link]() | [link]() |
 
 ## What we learned
